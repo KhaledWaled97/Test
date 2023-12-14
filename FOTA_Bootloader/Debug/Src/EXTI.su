@@ -1,0 +1,6 @@
+../Src/EXTI.c:17:6:EXTI_VidInit	16	static
+../Src/EXTI.c:47:6:EXTI_VidEnableEXTI	16	static
+../Src/EXTI.c:53:6:EXTI_VidDisableEXTI	16	static
+../Src/EXTI.c:59:6:EXTI_VidSoftWareTrigger	16	static
+../Src/EXTI.c:66:6:EXTI0_VidSetCallBack	16	static
+../Src/EXTI.c:71:6:EXTI0_IRQHandler	8	static

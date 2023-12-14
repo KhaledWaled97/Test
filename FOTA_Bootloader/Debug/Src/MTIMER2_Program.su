@@ -1,0 +1,9 @@
+../Src/MTIMER2_Program.c:15:4:MTIM_u8TimInit	24	static
+../Src/MTIMER2_Program.c:64:4:MTIM_u8UpCounterInit	24	static
+../Src/MTIMER2_Program.c:97:4:MTIM_u8DownCounterInit	24	static
+../Src/MTIMER2_Program.c:130:4:MTIM_u8UpDownCounterInit	24	static
+../Src/MTIMER2_Program.c:243:4:MTIM_u8ExternalTriggerTimerInit	24	static
+../Src/MTIMER2_Program.c:788:4:MTIM_u8PWMInputCaptureInit	24	static
+../Src/MTIMER2_Program.c:933:4:MTIM_u8GeneratePWM	24	static
+../Src/MTIMER2_Program.c:1526:4:MTIM_u8PWMStop	24	static
+../Src/MTIMER2_Program.c:1639:4:MTIM_u8TimStop	24	static

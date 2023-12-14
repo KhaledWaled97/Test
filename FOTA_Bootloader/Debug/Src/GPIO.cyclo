@@ -1,0 +1,6 @@
+../Src/GPIO.c:14:6:MGPIO_VidSetPinDirection	11
+../Src/GPIO.c:68:6:MGPIO_VidSetPinValue	11
+../Src/GPIO.c:109:6:MGPIO_u8GetPinValue	5
+../Src/GPIO.c:136:6:MGPIO_VidSetPortDirection	11
+../Src/GPIO.c:163:6:MGPIO_VidSetPortValue	11
+../Src/GPIO.c:190:5:MGPIO_u16GetPortValue	11

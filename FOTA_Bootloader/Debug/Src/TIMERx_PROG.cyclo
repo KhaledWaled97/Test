@@ -1,0 +1,16 @@
+../Src/TIMERx_PROG.c:19:18:MTIMERx_GetTimerID	5
+../Src/TIMERx_PROG.c:33:6:MTIMERx_voidInit	1
+../Src/TIMERx_PROG.c:69:6:MTIMERx_voidUpdatePSC	1
+../Src/TIMERx_PROG.c:77:6:MTIMERx_voidPWMSetup	5
+../Src/TIMERx_PROG.c:122:6:MTIMERx_voidSetPWMDuty	5
+../Src/TIMERx_PROG.c:136:6:MTIMERx_voidStopTimer	5
+../Src/TIMERx_PROG.c:149:6:MTIMERx_voidStartTimer	5
+../Src/TIMERx_PROG.c:161:6:MTIMERx_voidInputCaptureSetup	5
+../Src/TIMERx_PROG.c:212:6:MTIMERx_voidGetInputCaptureCounter	5
+../Src/TIMERx_PROG.c:227:6:MTIMERx_voidSetInputCaptureTrigger	5
+../Src/TIMERx_PROG.c:257:6:MTIMERx_voidInputCaptureCallback	3
+../Src/TIMERx_PROG.c:268:6:TIM2_IRQHandler	9
+../Src/TIMERx_PROG.c:312:6:TIM3_IRQHandler	9
+../Src/TIMERx_PROG.c:359:6:TIM3_PWM_Init	1
+../Src/TIMERx_PROG.c:378:6:TIM3_PWM_CH1_Generate	1
+../Src/TIMERx_PROG.c:394:6:TIM3_PWM_CH2_Generate	1
